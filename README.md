@@ -2,7 +2,7 @@
 
 *Páxina oficial da pequena biografía de Ángela Ruíz Robles*
 
-A idea desde libro parte da necesidade de poñer en valor
+A idea deste libro parte da necesidade de poñer en valor
 as cualidades e traxectoria de mulleres **STEAM** que foron pioneiras no seu eido.
 Este exemplar contén máis que unha breve biografía ilustrada por Tania Solla e editada por Lela Edicións.
 Podedes atopar nela:

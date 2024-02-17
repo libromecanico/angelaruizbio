@@ -1,6 +1,6 @@
-<text fontsize="14">O libro mecánico</text>
+### O libro mecánico 👋
 
-Páxina oficial da biografía de Ángela Ruíz Robles
+*Páxina oficial da pequena biografía de Ángela Ruíz Robles*
 
 A idea deste libro parte da necesidade de poñer en valor
 as cualidades e traxectoria de mulleres **STEAM** que foron pioneiras no seu eido.
